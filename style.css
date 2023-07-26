@@ -1,0 +1,160 @@
+/* .attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #242742;
+}
+
+.modal-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.sing-up-form {
+  max-width: 375px;
+  width: 100%;
+
+  border: 1px solid #ccc;
+
+  background-color: #f9f9f9;
+}
+.form-img {
+  padding: 0;
+  border-radius: 0 0 16px 16px;
+  scale: 1.005;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  padding: 40px 24px;
+}
+.form-title {
+  text-align: left;
+  color: #242742;
+}
+.form-description {
+  text-align: left;
+  color: #242742;
+}
+.description-items {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 40px 0;
+}
+.description-title {
+  display: flex;
+  align-items: center;
+}
+.description-title-descr {
+  margin-left: 16px;
+  color: #242742;
+}
+
+.email-lable {
+  color: #242742;
+}
+.email-input {
+  padding: 16px 24px;
+  border-radius: 8px;
+  width: 100%;
+  margin-top: 8px;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+.submit-btn {
+  font-family: Roboto;
+  font-size: 16px;
+  border: none;
+  margin: 24px 0 0 0;
+  height: 56px;
+  width: 100%;
+  color: white;
+  background-color: #242742;
+  border-radius: 8px;
+}
+.submit-btn:hover,
+.submit-btn:focus {
+  background-color: tomato;
+  box-shadow: 0 4px 6px rgba(255, 99, 71, 0.3),
+    0 10px 15px rgba(255, 99, 71, 0.3), 0 20px 40px rgba(255, 99, 71, 0.3),
+    0 30px 60px rgba(255, 99, 71, 0.3);
+}
+
+.success-message-modal-container {
+  display: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.success-message-modal-container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+  display: none;
+}
+
+.success-message-modal-container.show {
+  display: flex;
+}
+
+.success-message {
+  max-width: 375px;
+  width: 100%;
+
+  border: 1px solid #ccc;
+
+  background-color: #f9f9f9;
+  padding: 140px 24px 40px 24px;
+  display: none;
+}
+.success-message-title {
+  font-weight: 700;
+  font-size: 40;
+  text-align: left;
+  color: #242742;
+}
+.success-message-description {
+  font-size: 16;
+  font-weight: 400;
+  text-align: left;
+  color: #242742;
+}
+.user-email {
+}
+.succes-message-btn {
+  margin-top: 264px;
+  font-family: Roboto;
+  font-size: 16px;
+  border: none;
+
+  height: 56px;
+  width: 100%;
+  color: white;
+  background-color: #242742;
+  border-radius: 8px;
+}
+
+.succes-message-btn:hover,
+.succes-message-btn:focus {
+  background-color: tomato;
+  box-shadow: 0 4px 6px rgba(255, 99, 71, 0.3),
+    0 10px 15px rgba(255, 99, 71, 0.3), 0 20px 40px rgba(255, 99, 71, 0.3),
+    0 30px 60px rgba(255, 99, 71, 0.3);
+}
+.error {
+  border-color: red;
+} */
