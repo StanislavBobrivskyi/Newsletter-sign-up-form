@@ -13,7 +13,7 @@
   /* text */
   --paragraph: 16px;
   /* font */
-  --Family: [Roboto](https://fonts.google.com/specimen/Roboto);
+  --Family: Roboto;
   --bold: 700;
   --midle: 400;
 }
@@ -47,7 +47,7 @@ body {
 }
 .form-title {
   text-align: left;
-  font-family: var(--Family);
+  font-weight: 700;
   color: var(--Dark-Slate-Grey);
   font-size: 56px;
   font-weight: var(--bold);
@@ -110,7 +110,7 @@ body {
 }
 
 .submit-btn {
-  font-family: Roboto;
+  font-weight: 400;
   font-size: 16px;
   border: none;
   margin: 32px 0 0 0;
