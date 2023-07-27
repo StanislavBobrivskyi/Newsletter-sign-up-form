@@ -104,7 +104,7 @@ body {
 .input-group_input:focus + .input-group_lable,
 .input-group_input:valid + .input-group_lable {
   padding-inline: 5px;
-  translate: 10px -14px;
+  translate: 15px -19px;
   scale: 0.8;
   background-color: var(--White);
 }

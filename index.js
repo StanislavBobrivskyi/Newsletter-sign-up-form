@@ -36,7 +36,7 @@ function errorStyleClass() {
   if (!emailPatern()) {
     errorStyle.classList.remove("error-style");
     errorText.classList.remove("error-text");
-    errorText.textContent = "";
+    errorText.textContent = "approved 🚀";
   } else {
     errorStyle.classList.add("error-style");
     errorText.classList.add("error-text");
