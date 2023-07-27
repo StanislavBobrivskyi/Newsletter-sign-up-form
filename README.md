@@ -8,14 +8,23 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+This is a ready-made modal form ⬜️ with a fake signup property
+
+the file consists of two modal form ⬜️ ◻️
+
+- The first window: here we need to enter our email address and click on the subscribe button
+
+      but attention ⚠️ there is an intuitive check of the correctly entered email address ✅
+
+- if the address is entered incorrectly, we will receive an instruction📋 ‼️
+
+- After submitting our form, we are greeted by a window ⬜️ confirming successful subscription with a duplicate email address that was previously entered✅
+
+- and at the end you need to press the button ▶️ Dismiss message
+
+after which the form closes and we return ↩️ to the initial page
+
+pleasant use 🚀🚀🚀
+
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
