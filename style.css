@@ -85,11 +85,11 @@ body {
   border: none;
   border-radius: 8px;
   outline: 2px solid var(--Dark-Slate-Grey);
-  background-color: transparent;
+  background-color: var(--White);
   transition: outline-color 500ms;
 }
 .input-group_input:is(:focus, :valid) {
-  outline-color: #3c50eb;
+  outline-color: var(--Dark-Slate-Grey);
 }
 
 .input-group_lable {
@@ -198,4 +198,13 @@ body {
 
 .is-hiden {
   display: none;
+}
+
+.error-style {
+  border: 2px solid red;
+  background-color: #df7d7d53;
+  outline: none;
+}
+.error-text {
+  color: red;
 }
